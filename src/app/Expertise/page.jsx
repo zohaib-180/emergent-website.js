@@ -124,7 +124,7 @@ export default function ServicesPage() {
         </div>
       </section>
       {/* Footer */}
-      <footer className="footer__wrap section-space-top bg-[#174886] text-white py-10">
+      <footer className="footer__wrap section-space-top py-10">
         <div className="container mx-auto">
           <div className="footer-inner">
             <div className="row flex ">
@@ -148,7 +148,7 @@ export default function ServicesPage() {
                       <Icon icon="mdi:phone" className="mr-2 text-xl" />
                       <a
                         href="tel:0092515518612"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         +92-51-5518612
                       </a>
@@ -157,7 +157,7 @@ export default function ServicesPage() {
                       <Icon icon="mdi:email" className="mr-2 text-xl" />
                       <a
                         href="mailto:info@emergentsoft.com"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         info@emergentsoft.com
                       </a>
@@ -166,7 +166,7 @@ export default function ServicesPage() {
                       <Icon icon="mdi:map-marker" className="mr-2 text-xl" />
                       <a
                         href="#"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Building 62, Nice Plaza, Canning Road, Saddar,
                         Rawalpindi, Punjab 46000
@@ -189,7 +189,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="https://emergentsoft.com/about.php"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         About Us
                       </a>
@@ -197,7 +197,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="https://emergentsoft.com/services.php"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Our Services
                       </a>
@@ -205,7 +205,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="https://emergentsoft.com/portfolio.php"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Our Portfolio
                       </a>
@@ -213,7 +213,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="https://emergentsoft.com/expertise.php"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Expertise and Skills
                       </a>
@@ -221,7 +221,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="https://emergentsoft.com/methodology.php"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Our Methodology
                       </a>
@@ -243,7 +243,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="#"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Offshore Software Development
                       </a>
@@ -251,7 +251,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="#"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Technical Resource Outsourcing
                       </a>
@@ -259,7 +259,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="#"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Consultancy Services
                       </a>
@@ -267,7 +267,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="#"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Multimedia Designs & Animations
                       </a>
@@ -275,7 +275,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="#"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Software Quality Assurance And Testing
                       </a>
@@ -283,7 +283,7 @@ export default function ServicesPage() {
                     <li>
                       <a
                         href="#"
-                        className="text-sm text-white hover:text-white"
+                        className="text-sm "
                       >
                         Development
                       </a>
