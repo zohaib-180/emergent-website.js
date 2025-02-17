@@ -456,7 +456,7 @@ export default function Contact() {
         </div>
       </div>
       {/* Footer */}
-      <footer className="footer__wrap section-space-top bg-[#174886] text-white py-10">
+      <footer className="footer__wrap section-space-top py-10">
         <div className="container mx-auto">
           <div className="footer-inner">
             <div className="row flex ">
