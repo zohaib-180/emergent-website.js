@@ -18,10 +18,10 @@ export default function Home() {
           <div className="container mx-auto px-4 grid md:grid-cols-2 gap-8 items-center">
             <div data-aos="fade-left">
               <h2 className="text-3xl font-bold">
-                About <span className="text-[--primary]">Software Solutions</span>
+                About <span className="text-[--primary]">Emergent Software Solutions</span>
               </h2>
               <p className="mt-4">
-                EmergentSoft is a group of seasoned IT professionals delivering
+                Emergent Software Solutions is a group of seasoned IT professionals delivering
                 quality software solutions globally.
               </p>
               <div className="mt-6 flex gap-4">
@@ -51,7 +51,7 @@ export default function Home() {
           </div>
         </section>
         {/* Portfolio Section */}
-        <div className="hm-services-sec portfolio section-space mt-10">
+        <div className="hm-services-sec portfolio section-space">
           <div className="container mx-auto px-4">
             <div className="services-inner">
               <div className="section-info-sm text-center">
@@ -212,7 +212,7 @@ export default function Home() {
           </div>
         </div>
          {/* Services Section */}
-         <section className="py-16">
+         <section className="mt-10">
           <div className="container mx-auto px-4 text-center">
             <h2 className="text-3xl font-bold">
               Our Web Design and Development Services
@@ -258,7 +258,7 @@ export default function Home() {
           </div>
         </section>
          {/* Testimonials Section */}
-         <div className="testimonial-wrap section-space py-12 mt-10">
+         <div className="testimonial-wrap section-space mt-6 mb-6">
           <div className="container mx-auto">
             <div className="testimonial-inner text-center">
               <div className="section-info-sm mb-6 items-center">

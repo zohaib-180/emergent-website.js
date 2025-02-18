@@ -17,13 +17,13 @@ const BannerVideo = () => {
       <div className="absolute inset-0 bg-black/50 backdrop-blur-sm"></div> {/* Apply blur here */}
 
       {/* Your Content */}
-      <section className="relative pt-16 text-center">
+      <section className="relative pt-16 text-center mt-10">
               <div className="container mx-auto px-4">
                 <h1 className="text-4xl font-bold text-white" 
                 data-aos="fade-up"
                 >
-                  Welcome to{" "}
-                  <span className="block text-white">EmergentSoft</span>
+                  Welcome to Emergent Software Solutions
+                  {/* <span className="block text-white">Emergent Software Solutions </span> */}
                 </h1>
                 <p className="mt-4 text-lg text-white" 
                 data-aos="fade-down"
