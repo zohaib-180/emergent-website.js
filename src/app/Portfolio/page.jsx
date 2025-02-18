@@ -117,7 +117,7 @@ export default function Portfolio() {
         </div>
       </main>
       {/* Footer */}
-      <footer className="footer__wrap section-space-top py-10">
+      <footer className="footer__wrap section-space-top py-10 text-white bg-[#020817]">
         <div className="container mx-auto">
           <div className="footer-inner">
             <div className="row flex ">

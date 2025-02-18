@@ -18,7 +18,7 @@ export default function Navbar() {
   }, []);
 
   const topNav=()=>(
-<div className="py-2 text-sm">
+<div className="py-2 text-sm bg-[#020817] text-white">
           <div className="container mx-auto flex justify-between items-center px-4">
             <div className="flex items-center space-x-3">
               <span className="">Follow Us</span>
@@ -68,7 +68,7 @@ export default function Navbar() {
         {topNav()}
 
         {/* Navbar */}
-        <nav className="">
+        <nav className="bg-[#020817]">
           <div className="container mx-auto flex justify-between items-center py-4 px-4">
             <Link href="/">
               <Image
@@ -90,43 +90,43 @@ export default function Navbar() {
             } md:flex space-x-6  text-lg`}
             >
               <li>
-                <Link href="/" className="relative  group">
+                <Link href="/" className="relative  group text-white">
                   Home
                   <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-orange-400 transition-all duration-300 group-hover:w-full"></span>
                 </Link>
               </li>
               <li>
-                <Link href="../About" className="relative group">
+                <Link href="../About" className="relative group text-white">
                   About
                   <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-orange-400 transition-all duration-300 group-hover:w-full"></span>
                 </Link>
               </li>
               <li>
-                <Link href="../Services" className="relative group">
+                <Link href="../Services" className="relative group text-white">
                   Services
                   <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-orange-400 transition-all duration-300 group-hover:w-full"></span>
                 </Link>
               </li>
               <li>
-                <Link href="../Portfolio" className="relative  group">
+                <Link href="../Portfolio" className="relative  group text-white">
                   Portfolio
                   <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-orange-400 transition-all duration-300 group-hover:w-full"></span>
                 </Link>
               </li>
               <li>
-                <Link href="../Expertise" className="relative group">
+                <Link href="../Expertise" className="relative group text-white">
                   Expertise
                   <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-orange-400 transition-all duration-300 group-hover:w-full"></span>
                 </Link>
               </li>
               <li>
-                <Link href="../Methodology" className="relative group">
+                <Link href="../Methodology" className="relative group text-white">
                   Methodology
                   <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-orange-400 transition-all duration-300 group-hover:w-full"></span>
                 </Link>
               </li>
               <li>
-                <Link href="../Contact" className="relative group">
+                <Link href="../Contact" className="relative group text-white">
                   Contact Us
                   <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-orange-400 transition-all duration-300 group-hover:w-full"></span>
                 </Link>

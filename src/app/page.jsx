@@ -361,7 +361,7 @@ export default function Home() {
           </div>
         </div>
          {/* Footer */}
-      <footer className="footer__wrap section-space-top text-[--primary] py-10">
+      <footer className="footer__wrap section-space-top text-white bg-[#020817] py-10">
         <div className="container mx-auto">
           <div className="footer-inner">
             <div className="row flex ">
