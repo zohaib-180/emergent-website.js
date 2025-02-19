@@ -69,14 +69,14 @@ export default function Portfolio() {
                     alt="Project 1"
                     width={500}
                     height={300}
-                    className="h-auto object-cover transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.1s]"
+                    className="h-auto object-cover cursor-pointer transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.1s]"
                   />
                   <Image
                     src="/assets/images/project-2.png"
                     alt="Project 2"
                     width={500}
                     height={300}
-                    className="h-auto object-cover transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.3s]"
+                    className="h-auto object-cover cursor-pointer transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.3s]"
                   />
                 </div>
                 <div className="flex flex-col gap-4">
@@ -85,14 +85,14 @@ export default function Portfolio() {
                     alt="Project 3"
                     width={500}
                     height={300}
-                    className="h-auto object-cover transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.5s]"
+                    className="h-auto object-cover cursor-pointer transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.5s]"
                   />
                   <Image
                     src="/assets/images/project-4.png"
                     alt="Project 4"
                     width={500}
                     height={300}
-                    className="h-auto object-cover transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.7s]"
+                    className="h-auto object-cover cursor-pointer transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.7s]"
                   />
                 </div>
                 <div className="flex flex-col gap-4">
@@ -101,14 +101,14 @@ export default function Portfolio() {
                     alt="Project 5"
                     width={500}
                     height={300}
-                    className="h-auto object-cover transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.9s]"
+                    className="h-auto object-cover cursor-pointer transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:0.9s]"
                   />
                   <Image
                     src="/assets/images/project-2.png"
                     alt="Project 2"
                     width={500}
                     height={300}
-                    className="h-auto object-cover transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:1.1s]"
+                    className="h-auto object-cover cursor-pointer transition-transform duration-300 hover:scale-105 animate-slideUp [animation-delay:1.1s]"
                   />
                 </div>
               </div>

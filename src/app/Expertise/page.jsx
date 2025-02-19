@@ -91,7 +91,7 @@ export default function ServicesPage() {
             {services.map((service, index) => (
               <div
                 key={index}
-                className="bg-white shadow-lg rounded-lg overflow-hidden"
+                className="bg-white text-black shadow-lg rounded-lg overflow-hidden"
                 data-aos="fade-up"
                 data-aos-delay={index * 100}
               >
